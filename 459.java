@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class ASP459 {
+class Main {
 
 	private static char largestNode;
 	private static HashSet<HashSet<Character>> VS;
